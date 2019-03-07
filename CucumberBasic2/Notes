@@ -1,0 +1,9 @@
+
+For you to run my the both feature file, you will need to run it via cucumber. Java Run and debug config.
+created GoogleHomePage.feature
+
+Use Cucumber.java to run the Feature: GoogleHomePage
+
+Created a TestRunner. java incase you would like to run the test Via the method. you can you the @test tag to run the test.
+
+Also created a Example table for different data set, which have not been implemented yet, just showing examples.
